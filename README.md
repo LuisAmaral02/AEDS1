@@ -1,5 +1,6 @@
 ## Exercício 1 - MinMax - Custo Computacional
-
+##### Data: 25/05/2021
+##### Nome: Luis Augusto Amaral
 Desafio: Encontrar máximo e mínimo de um vetor com o menor custo computacional.
 
 #### Código original:
